@@ -1,0 +1,34 @@
+screenWidth             =   800
+screenHeight            =   450
+
+paddleWidth             =   10
+paddleHeight            =   80
+
+paddleSpeedSlow         =   400
+paddleSpeedMedium       =   800
+paddleSpeedFast         =   1200
+
+# Fraction of y velocity of paddle that gets transfered to ball on contact
+yVelocityTransfer       =   0.5
+
+# Fraction of ball velocity that becomes drag.
+ballDrag                =   0.5
+
+ballSize                =   15
+initBallSpeed           =   400
+ballHitForce            =   800
+
+leftPaddleX             =   30
+leftPaddleY             =   225
+
+rightPaddleX            =   770
+rightPaddleY            =   225
+
+scoreBoardFontSize      =   120
+
+
+
+# In fraction of screen width or height
+leftPaddleScoreBoardX   =   0.2375
+rightPaddleScoreBoardX  =   0.75
+scoreBoardY             =   0.05
